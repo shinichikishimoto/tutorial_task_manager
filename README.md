@@ -1,0 +1,2 @@
+# tutorial_task_manager
+Pythonで作成した簡易的なタスク管理ツール
